@@ -1,2 +1,5 @@
 # hello-world
-This my first project here.
+==================================
+嘿，大家好！
+我是一名来自中国的C#程序员，GitHub新用户。
+我正在体验GitHub，欢迎大家一起来我和交流互动，谢谢！
